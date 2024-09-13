@@ -1,2 +1,2 @@
-# Cabrack
+# Cabrac
 A programming language.
