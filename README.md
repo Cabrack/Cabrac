@@ -1,2 +1,2 @@
 # Cabrac
-A programming language.
+A programming language that's obsessed with braces.
